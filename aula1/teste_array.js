@@ -13,3 +13,9 @@ console.log(meuArray);
 meuArray[4] = 'teste';
 
 console.log(meuArray);
+
+let vetor = [];
+
+vetor[1] = 'teste';
+
+console.log(vetor);
