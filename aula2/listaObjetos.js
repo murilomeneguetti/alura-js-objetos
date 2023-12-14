@@ -12,7 +12,6 @@ cliente.enderecos = [
     apartamento: true,
     complemento: 'ap 934',
 }
-
 ];
 
 cliente.enderecos.push({
